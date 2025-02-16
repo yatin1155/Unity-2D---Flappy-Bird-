@@ -505,7 +505,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2339572924b1a540a750453cb12ff39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 3702851186854595977, guid: 8f413b68737cd0b40a382c956c840100, type: 3}
+  - {fileID: 4125150189441033765, guid: d4d7c03c71c776845a94614896c90d3f, type: 3}
+  - {fileID: -8049360793807390311, guid: df00009ace81c3b45bfb37bfeeb48e05, type: 3}
   gravity: -8
+  strength: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
